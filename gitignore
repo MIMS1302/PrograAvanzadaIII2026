@@ -36,6 +36,8 @@ bld/
 # Visual Studio cache
 # =========================
 .vs/
+bin/
+obj/
 *.vsidx
 
 # Visual Studio auto-generated files
