@@ -144,6 +144,9 @@
     <Compile Include="Models\Sucursales.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\ViewModels\CreateSucursal.cs" />
+    <Compile Include="Models\ViewModels\Sucursal.cs" />
+    <Compile Include="Models\ViewModels\ListaSucursales.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
